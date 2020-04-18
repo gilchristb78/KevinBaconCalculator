@@ -28,8 +28,6 @@ the two folders display the two different artificial intelligence calculators
    
     python degrees.py (small/large)
       then fill in the actors name as it prompts you
-     
             or
-     
-   python KevinBacon.py (small/large)
+     python KevinBacon.py (small/large)
       then fill in the actors name as it prompts you
