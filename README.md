@@ -31,3 +31,12 @@ the two folders display the two different artificial intelligence calculators
             or
      python KevinBacon.py (small/large)
       then fill in the actors name as it prompts you
+      
+      
+      
+      ----
+      Java Version Added,
+      
+      Java Version created at WPI in accelerated intro to OOP.
+      works extremely similarly to python version, implemented in java
+      can be run using GraphSearchGUI
